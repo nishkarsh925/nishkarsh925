@@ -7,8 +7,8 @@ I am a passionate developer with 5 years of coding experience, currently pursuin
 - **Hacktoberfest 2020 Winner**
 
 ### 💻 What I’ve Learned
-- **Languages:** JavaScript, Python, HTML, CSS, Kotlin
-- **Tools:** Git, Docker, VS Code, Android studio
+- **Languages:** JavaScript, Python, HTML, CSS, Kotlin , C++, Java , sql
+- **Tools:** Git, Docker, VS Code, Android studio , Wordpress , mysql
 
 ### 🌱 Currently Learning
 - Dsa
