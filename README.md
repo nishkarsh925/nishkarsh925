@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Nishkarsh Bains! 👋
 
-<!--
-**nishkarsh925/nishkarsh925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer with 5 years of coding experience, currently pursuing a BSc degree from IIT Guwahati. I have mastered web development and have a strong background in various programming languages and tools.
 
-Here are some ideas to get you started:
+### 🏆 Achievements
+- **Delhi Hackathon 2023 Winner**
+- **Hacktoberfest 2020 Winner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I’ve Learned
+- **Languages:** JavaScript, Python, HTML, CSS, Kotlin
+- **Tools:** Git, Docker, VS Code, Android studio
+
+### 🌱 Currently Learning
+- Dsa
+
+  
+### 📫 How to Reach Me
+- **LinkedIn:** https://www.linkedin.com/in/nishkarsh-bains-b41295318/
+
+- **Email:** nishcodingzone@gmail.com
+
+---
+
+*Thank you for visiting my profile! Feel free to check out my projects and connect with me!*
