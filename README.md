@@ -18,6 +18,8 @@ I am a passionate developer with 5 years of coding experience, currently pursuin
 - **LinkedIn:** https://www.linkedin.com/in/nishkarsh-bains-b41295318/
 
 - **Email:** nishcodingzone@gmail.com
+ 
+- **YOUTUBE:** https://youtube.com/@codingzone6165?feature=shared
 
 ---
 
